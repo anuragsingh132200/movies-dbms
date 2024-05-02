@@ -75,10 +75,5 @@ This project is a simple backend API for managing a movie database built using F
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or feature requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 You can customize this README template further based on your project's specific requirements or additional instructions.
